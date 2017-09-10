@@ -1,6 +1,8 @@
-hash: d972bf286e2c963531526148053fed2499e8fb5676025103922b77bea5667f8e
-updated: 2017-09-10T16:36:19.113205218+08:00
+hash: 03ef2354eb31455761395b39358da9e6e9d134ff1854e843168a7a611f533b09
+updated: 2017-09-10T17:50:02.185043007+08:00
 imports:
+- name: github.com/gorilla/mux
+  version: bcd8bc72b08df0f70df986b97f95590779502d31
 - name: github.com/sirupsen/logrus
   version: f006c2ac4710855cf0f916dd6b77acf6b048dc6e
 testImports: []

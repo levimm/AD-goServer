@@ -2,3 +2,5 @@ package: .
 import:
 - package: github.com/sirupsen/logrus
   version: v1.0.3
+- package: github.com/gorilla/mux
+  version: ^1.4.0
